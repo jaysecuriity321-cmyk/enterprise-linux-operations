@@ -29,3 +29,7 @@ Detailed project documentation is available in the `projects/` directory.
 
 ## Structure
 
+## Status
+
+This repository is actively being developed as systems are operated and documented.
+
